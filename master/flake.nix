@@ -11,7 +11,6 @@
   inputs.src-jdec-master.ref   = "refs/heads/master";
   inputs.src-jdec-master.owner = "diegogub";
   inputs.src-jdec-master.repo  = "jdec";
-  inputs.src-jdec-master.dir   = "";
   inputs.src-jdec-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

@@ -11,7 +11,6 @@
   inputs.src-jdec-develop.ref   = "refs/heads/develop";
   inputs.src-jdec-develop.owner = "diegogub";
   inputs.src-jdec-develop.repo  = "jdec";
-  inputs.src-jdec-develop.dir   = "";
   inputs.src-jdec-develop.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
