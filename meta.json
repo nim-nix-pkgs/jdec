@@ -7,7 +7,7 @@
   "url": "https://github.com/diegogub/jdec",
   "description": "Flexible JSON manshal/unmarshal library for nim",
   "refs": [
-    "fatal: unable to access 'https://github.com/diegogub/jdec/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/diegogub/jdec/': Failed to connect to github.com port 443 after 133356 ms: Connection timed out",
     ""
   ],
   "heads": []
